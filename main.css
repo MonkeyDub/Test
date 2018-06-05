@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Open Sans,
+    Helvetica, Arial, sans-serif;
+  background: grey;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h2 {
+  font-size: 40px;
+
+  color: cornsilk;
+}
+.gallery {
+  -webkit-appearance: none;
+  border: none;
+  background: green;
+  color: white;
+}
+.gallery:active {
+  background: red;
+}
+.title {
+  font-family: Intro Head R;
+}
+.main-info {
+  border: 1px solid red;
+  text-align: center;
+  display: inline-block;
+}
+
+/* header {} */
+/* <link rel="stylesheet" href="main.css"> */
+/* <header>
+        <h1>123</h1>
+        <h1>234235</h1>
+        <div>
+            asd
+            <div>adas</div>
+        </div>
+    </header> */
