@@ -20,8 +20,14 @@
 - [x] add html-tags for all pages
 - [ ] complete filling right content, iclude: text, audio, video and photos
 - [ ] use google fonts
-- [ ] WPO!
 - [ ] [bem 101](https://css-tricks.com/bem-101/)
 - [ ] [grid 101](https://learncssgrid.com)
 - [ ] [flex 101](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [ ] git-flow & alternative git-clients [one](https://www.gitkraken.com) & [two](https://www.sourcetreeapp.com)
+- [ ] css: positioning & layout
+- [ ] css: styling interafce (colors, fonts, shadows, margins, paddings, etc.)
+- [ ] css: variability
+- [ ] css: adaptability
+- [ ] css: responsiveness
+- [ ] css: cross-browser compatibility
+- [ ] wpo check
