@@ -20,3 +20,4 @@
 - [ ] [bem 101](https://css-tricks.com/bem-101/)
 - [ ] [grid 101](https://learncssgrid.com)
 - [ ] [flex 101](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [ ] rename `/public` folder to `/docs` & setup github for use docs folder
