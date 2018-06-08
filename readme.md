@@ -1,6 +1,6 @@
-# [🚀 Adele Web](https://monkeydub.github.io/Test/public)
+# [🚀 See site: Adele Web](https://monkeydub.github.io/Test/public)
 
-Source: http://adele.com/
+(source: http://adele.com/)
 
 
 ### TODO:
@@ -10,8 +10,8 @@ Source: http://adele.com/
 - [x] install & setup [prettier](https://github.com/prettier/prettier)
 - [x] learn css selectors
 - [ ] complete [css diner](https://flukeout.github.io)
+- [ ] learn specificity and cascade of selectors
 - [ ] complete [learn positioning](http://ru.learnlayout.com)
-- [ ] learn specify of selectors
 - [ ] learn all main [css articles](https://learn.javascript.ru/css-for-js)
 - [ ] [learn emmet](https://habr.com/post/175747/)
 - [ ] git-flow & alternative git-clients [one](https://www.gitkraken.com) & [two](https://www.sourcetreeapp.com)
