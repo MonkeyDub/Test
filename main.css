@@ -4,36 +4,21 @@ body {
     Helvetica, Arial, sans-serif;
   background: grey;
 }
-
-h1 {
-  font-size: 50px;
+.logo {
+  background: url('/Users/Dl1UnmaskeDD/Documents/GitHub/Test/Adele.svg');
 }
-
 h2 {
-  font-size: 40px;
-
-  color: cornsilk;
-}
-.gallery {
-  -webkit-appearance: none;
-  border: none;
-  background: green;
-  color: white;
-}
-.gallery:active {
-  background: red;
+  text-align: center;
 }
 .title {
-  font-family: Intro Head R;
+  font-family: intro head r;
+  font-size: 35px;
+  color: white;
 }
-.main-info {
-  border: 1px solid red;
-  text-align: center;
-  display: inline-block;
+.Center {
+  margin: 0vh 45vw;
 }
-
-/* header {} */
-/* <link rel="stylesheet" href="main.css"> */
+/* header {} */ /* <link rel="stylesheet" href="main.css"> */
 /* <header>
         <h1>123</h1>
         <h1>234235</h1>
