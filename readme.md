@@ -9,6 +9,7 @@
 - [x] add first html & css files
 - [x] install & setup [prettier](https://github.com/prettier/prettier)
 - [x] learn css selectors
+- [ ] rename `/public` folder to `/docs` & setup github for use docs folder
 - [ ] complete [css diner](https://flukeout.github.io)
 - [ ] learn specificity and cascade of selectors
 - [ ] complete [learn positioning](http://ru.learnlayout.com)
@@ -17,10 +18,10 @@
 - [ ] [learn emmet](https://habr.com/post/175747/)
 - [x] create all pages
 - [x] add html-tags for all pages
-- [ ] git-flow & alternative git-clients [one](https://www.gitkraken.com) & [two](https://www.sourcetreeapp.com)
+- [ ] complete filling right content except text, audio, video and photos
 - [ ] use google fonts
 - [ ] WPO!
 - [ ] [bem 101](https://css-tricks.com/bem-101/)
 - [ ] [grid 101](https://learncssgrid.com)
 - [ ] [flex 101](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [ ] rename `/public` folder to `/docs` & setup github for use docs folder
+- [ ] git-flow & alternative git-clients [one](https://www.gitkraken.com) & [two](https://www.sourcetreeapp.com)
