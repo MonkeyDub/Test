@@ -18,7 +18,7 @@
 - [ ] [learn emmet](https://habr.com/post/175747/)
 - [x] create all pages
 - [x] add html-tags for all pages
-- [ ] complete filling right content except text, audio, video and photos
+- [ ] complete filling right content, iclude: text, audio, video and photos
 - [ ] use google fonts
 - [ ] WPO!
 - [ ] [bem 101](https://css-tricks.com/bem-101/)
