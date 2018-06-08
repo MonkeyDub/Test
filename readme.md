@@ -13,6 +13,7 @@
 - [ ] learn specificity and cascade of selectors
 - [ ] complete [learn positioning](http://ru.learnlayout.com)
 - [ ] learn all main [css articles](https://learn.javascript.ru/css-for-js)
+- [x] research design-layout & draw wireframes
 - [ ] [learn emmet](https://habr.com/post/175747/)
 - [ ] git-flow & alternative git-clients [one](https://www.gitkraken.com) & [two](https://www.sourcetreeapp.com)
 - [ ] use google fonts
