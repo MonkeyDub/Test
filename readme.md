@@ -16,4 +16,7 @@ Source: http://adele.com/
 - [ ] [learn emmet](https://habr.com/post/175747/)
 - [ ] git-flow & alternative git-clients [one](https://www.gitkraken.com) & [two](https://www.sourcetreeapp.com)
 - [ ] use google fonts
-- [ ] wpo
+- [ ] WPO!
+- [ ] [bem 101](https://css-tricks.com/bem-101/)
+- [ ] [grid 101](https://learncssgrid.com)
+- [ ] [flex 101](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
