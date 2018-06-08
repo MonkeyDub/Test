@@ -16,7 +16,7 @@
 - [x] research design-layout & draw wireframes
 - [ ] [learn emmet](https://habr.com/post/175747/)
 - [x] create all pages
-- [x] add html-content for all pages
+- [x] add html-tags for all pages
 - [ ] git-flow & alternative git-clients [one](https://www.gitkraken.com) & [two](https://www.sourcetreeapp.com)
 - [ ] use google fonts
 - [ ] WPO!
