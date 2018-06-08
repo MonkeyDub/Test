@@ -31,3 +31,4 @@
 - [ ] css: responsiveness
 - [ ] css: cross-browser compatibility
 - [ ] wpo check
+- [ ] pixel perfect
