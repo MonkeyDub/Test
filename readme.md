@@ -9,7 +9,7 @@
 - [x] add first html & css files
 - [x] install & setup [prettier](https://github.com/prettier/prettier)
 - [x] learn css selectors
-- [ ] rename `/public` folder to `/docs` & setup github for use docs folder
+- [x] rename `/public` folder to `/docs` & setup github for use docs folder
 - [ ] complete [css diner](https://flukeout.github.io)
 - [ ] learn specificity and cascade of selectors
 - [ ] complete [learn positioning](http://ru.learnlayout.com)
