@@ -12,7 +12,7 @@
 - [x] rename `/public` folder to `/docs` & setup github for use docs folder
 - [x] complete [css diner](https://flukeout.github.io)
 - [x] learn specificity and cascade of selectors
-- [ ] complete [learn positioning](http://ru.learnlayout.com)
+- [x] complete [learn positioning](http://ru.learnlayout.com)
 - [ ] learn all main [css articles](https://learn.javascript.ru/css-for-js)
 - [x] research design-layout & draw wireframes
 - [ ] [learn emmet](https://habr.com/post/175747/)
